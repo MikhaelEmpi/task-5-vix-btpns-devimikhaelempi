@@ -7,6 +7,7 @@ import (
 	"time"
 
 	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/helpers/hash"
+
 	"github.com/badoux/checkmail"
 	"github.com/google/uuid"
 )
