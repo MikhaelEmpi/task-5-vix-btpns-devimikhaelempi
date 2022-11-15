@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 
-	"https://github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/controllers"
-	"https://github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/middlewares"
+	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/controllers"
+	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/middlewares"
 )
 
 // Melakukan set up routes end point

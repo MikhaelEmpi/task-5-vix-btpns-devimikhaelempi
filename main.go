@@ -1,9 +1,9 @@
 package main
 
 import (
-	"https://github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/database"
-	"https://github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/models"
-	"https://github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/router"
+	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/database"
+	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/models"
+	"github.com/MikhaelEmpi/task-5-vix-btpns-devimikhaelempi/router"
 )
 
 func main() {
